@@ -4,4 +4,4 @@ Course Contents
 - Practical application of programming and game engine concepts in Unity with C#
 
 Project Task
-Create a 2D game of my choice in Unity with C# that displays the key programming concepts taught in class.
+- Create a 2D game of my choice in Unity with C# that displays the key programming concepts taught in class.
